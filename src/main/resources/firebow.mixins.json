@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.firebow.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "FireArrowMixin",
+    "ClientTickMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
